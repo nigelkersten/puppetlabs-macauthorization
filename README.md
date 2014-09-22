@@ -1,3 +1,9 @@
+# NOT LIVE YET #
+
+Currently debating the right approach in: 
+
+https://tickets.puppetlabs.com/browse/PUP-661
+
 # macauthorization
 
 #### Table of Contents
